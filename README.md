@@ -8,6 +8,21 @@ An end-to-end Excel analytics project that analyses **16,569 bakery transactions
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
+## 🎥Video Demonstration
+
+
+
+
+
+
+https://github.com/user-attachments/assets/bbc774b6-4c51-4fbb-9b26-d6f28f0214a2
+
+
+
+
+
+
+---
 
 ## 📌 Table of Contents
 1. [Business Problem](#-business-problem)
