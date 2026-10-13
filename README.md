@@ -44,7 +44,8 @@ The bakery generates healthy revenue but **ends with a net loss**. Management ne
 
 | Item | Detail |
 |---|---|
-| **Source file** | [`Backery_analysis_dashboard.xlsm`](./Backery_analysis_dashboard.xlsm) (data + pivots + dashboards) |
+| **Raw Source file** | [`Backery_raw_dataset.xlsx`](https://github.com/TCWaghmare/Bakery_Data_Analysis_Project_by_Excel/blob/main/Dataset/bakery_raw_dataset.csv.xlsx)|
+| **Filterd Source file** | [`Backery_filterd_dataset.xlsm`](https://github.com/TCWaghmare/Bakery_Data_Analysis_Project_by_Excel/blob/main/Excel_Dashboard/Backery_data_analysis_dashboard.xlsm) (data + pivots + dashboards) |
 | **Period** | 01 Jan 2023 – 31 Dec 2024 (731 days) |
 | **Grain** | One row per transaction (`Transaction_ID`) |
 | **Rows** | 16,569 |
