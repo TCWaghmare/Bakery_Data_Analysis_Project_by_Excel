@@ -54,7 +54,7 @@ The bakery generates healthy revenue but **ends with a net loss**. Management ne
 | **Customers** | 2,173 unique customers |
 | **Employees** | 60 (20 per store) |
 
-> The data is a bakery transaction dataset; it appears to be synthetic/simulated. Add your original source link here if you have one: `[Dataset source](#)`.
+> The data is a bakery transaction dataset. Add your source link here if you have one: [`Dataset source`](https://www.kaggle.com/datasets/shreyashdodekar/synthetic-bakery-sales-dataset).
 
 ### Tables
 
@@ -176,30 +176,29 @@ erDiagram
     }
 ```
 
-📸 *Add a screenshot of your Power Pivot diagram view too:* `images/data_model.png`
-
-![Data Model](images/data_model.png)
+![Data Model](https://github.com/TCWaghmare/Bakery_Data_Analysis_Project_by_Excel/blob/main/Asset/Backery%20Data%20Modeling.png)
 
 ---
 
 ## 📊 Dashboards
 
-> 📸 Take screenshots of each dashboard sheet and save them in the `images/` folder using the names below.
-
 ### 1. Sales Dashboard
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](https://github.com/TCWaghmare/Bakery_Data_Analysis_Project_by_Excel/blob/main/Asset/Backery%20Sale%20Dashboard.png)
 
 **Visuals:** Top 10 products by revenue, profit-making products, revenue by store, promotion type, festival, gender, discount slab, season, profit vs revenue trend, and daily revenue.
 **Slicers:** Year, Category, Weekend, Loyalty Member, Customer Gender, Promotion Applied.
 
 ### 2. Transaction Dashboard
-![Transaction Dashboard](images/transaction_dashboard.png)
+![Transaction Dashboard](https://github.com/TCWaghmare/Bakery_Data_Analysis_Project_by_Excel/blob/main/Asset/Backery_Transaction_dashboard.png)
 
 **Visuals:** Waste cost by product, produced vs sold units, produced vs unsold by expiry risk, sold/unsold rate by category, payment method, ratings, transactions by time of day, and customer segment.
 **Slicers:** Year, Category, Sold Rate Status, Weekend.
 
-### 3. Analytics Sheet (pivot tables & KPI measures)
-![Analytics Sheet](images/analytics_sheet.png)
+### 3. Insights Dashboard
+![Insights Dashboard](https://github.com/TCWaghmare/Bakery_Data_Analysis_Project_by_Excel/blob/main/Asset/Backery%20Data%20analysis%20Insights.png)
+
+### 4. Analytics Sheet (pivot tables & KPI measures)
+![Analytics Sheet](https://github.com/TCWaghmare/Bakery_Data_Analysis_Project_by_Excel/blob/main/Asset/Backery%20Analyics%20sheet_page-0001.jpg)
 
 ---
 
@@ -261,21 +260,6 @@ erDiagram
 
 ---
 
-## 📁 Repository Structure
-```
-bakery-analytics-dashboard/
-│
-├── Backery_analysis_dashboard.xlsm   # Dataset, data model, pivots, dashboards
-├── README.md
-└── images/
-    ├── sales_dashboard.png
-    ├── transaction_dashboard.png
-    ├── analytics_sheet.png
-    └── data_model.png
-```
-
----
-
 ## ▶️ How to Use
 1. Download or clone the repository:
    ```bash
@@ -286,13 +270,13 @@ bakery-analytics-dashboard/
 4. Use the **Sales** and **Transaction** sheets and their slicers to explore the data.
 5. Review the **Analytics** sheet for pivot tables and the **Insights** sheet for the written findings.
 
-> ⚠️ The slicers, data model and macros need desktop Excel; they will not work in Excel Online or on mobile.
+> ⚠️ The slicers, data model, and macros need desktop Excel; they will not work in Excel Online or on mobile.
 
 ---
 
 ## 👤 Author
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [@Tejas Waghmare](https://github.com/your-TCWaghmare)
+- LinkedIn: [Tejas Waghmare](https://linkedin.com/in/your-tejascwaghmare)
 
 ⭐ If you found this project useful, please star the repository!
