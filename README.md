@@ -276,7 +276,7 @@ erDiagram
 
 ## 👤 Author
 **Your Name**
-- GitHub: [@Tejas Waghmare](https://github.com/your-TCWaghmare)
-- LinkedIn: [Tejas Waghmare](https://linkedin.com/in/your-tejascwaghmare)
+- GitHub: [@Tejas Waghmare](https://github.com/TCWaghmare)
+- LinkedIn: [Tejas Waghmare](https://linkedin.com/in/tejascwaghmare)
 
 ⭐ If you found this project useful, please star the repository!
